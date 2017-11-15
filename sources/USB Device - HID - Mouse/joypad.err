@@ -1,0 +1,4 @@
+Error[1027] C:\Users\hugot\Desktop\progra\pic\arcade_controleur\joypad.c 52 : unable to locate 'Compiler.h'
+Error[1027] C:\Users\hugot\Desktop\progra\pic\arcade_controleur\joypad.c 54 : unable to locate './USB/usb_device.h'
+Error[1027] C:\Users\hugot\Desktop\progra\pic\arcade_controleur\joypad.c 55 : unable to locate './USB/usb.h'
+Error[1027] C:\Users\hugot\Desktop\progra\pic\arcade_controleur\joypad.c 61 : unable to locate './USB/usb_function_hid.h'

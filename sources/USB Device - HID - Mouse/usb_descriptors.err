@@ -1,0 +1,3 @@
+Error[1027] C:\Users\hugot\Desktop\progra\pic\arcade_controleur\usb_descriptors.c 165 : unable to locate 'Compiler.h'
+Error[1027] C:\Users\hugot\Desktop\progra\pic\arcade_controleur\usb_descriptors.c 167 : unable to locate './USB/usb_device.h'
+Error[1027] C:\Users\hugot\Desktop\progra\pic\arcade_controleur\usb_descriptors.c 169 : unable to locate './USB/usb_function_hid.h'
