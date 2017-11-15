@@ -16,4 +16,17 @@ seul les fichiers :
 sont entièrement libre
 
 ********************
------
+-----BOARD----------
+fichiers eagle
+contien les plans du circuit imprimé.
+(imprimante chimique : mirror sur TOP
+ graveuse CNC        : mirror sur BOT)
+
+********************
+-----3D-2D---------
+fichier SOLIDWORK
+fichier INKSCAPE (pour decoupe laser)
+
+pour plus d'info : labboite.fr
+sujet arcade du wiki 
+http://documentation.labboite.fr/xwiki
